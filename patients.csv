@@ -1,21 +1,21 @@
-﻿id,first_name,last_name,dx,last_visit,followup,deceased
-322,joe,marx,sick,1/1/25,5/1/26,n
-326,jane,doe,cholera,1/2/25,5/2/26,n
-975,johnny,cash,alcoholism,1/3/25,5/3/26,n
-1278,suzy,hudson,pneumonia,1/4/25,5/4/26,n
-599,sam,seuss,psychosis,1/5/25,5/5/26,n
-370,susan,stevens,vocal injury,1/6/25,5/6/26,n
-398,hudson,williams,sick,1/7/25,5/7/26,n
-307,connor,storie,very hot,1/8/25,5/8/26,n
-1053,shane,hollander,autism,1/9/25,5/9/26,n
-386,ilya,razanov,very hot,1/10/25,5/10/26,n
-829,scott,hunter,anxiety,1/11/25,5/11/26,n
-548,kip,gandy,very hot,1/12/25,5/12/26,n
-1157,mark,kennedy,brian worm,1/13/25,5/13/26,n
-1245,mary,jane,very hot,1/14/25,5/14/26,n
-1070,martha,stewart,psychosis,1/15/25,5/15/26,n
-1345,merrick,trevors,sick,1/16/25,5/16/26,n
-862,mike,carlson,delulu,1/17/25,5/17/26,n
-458,matt,rontegen,radiation,1/18/25,5/18/26,n
-1191,steve,tyler,vocal injury,1/19/25,5/19/26,n
-437,taylor,kelvin,deceased,1/20/80,,y
+﻿id,first_name,last_name,sex,dx,last_visit,followup,deceased
+322,joe,marx,m,sick,1/1/25,5/1/26,n
+326,jane,doe,f,cholera,1/2/25,5/2/26,n
+975,johnny,cash,m,alcoholism,1/11/25,5/3/26,n
+1278,suzy,hudson,f,pneumonia,1/4/25,5/4/26,n
+599,sam,seuss,m,psychosis,1/5/25,5/5/26,n
+370,susan,stevens,f,vocal injury,1/19/25,5/6/26,n
+398,hudson,williams,m,sick,1/9/25,5/7/26,n
+307,connor,storie,m,very hot,1/8/25,5/8/26,n
+1053,shane,hollander,m,autism,1/9/25,5/9/26,n
+386,ilya,razanov,m,very hot,1/8/25,5/10/26,n
+829,scott,hunter,m,anxiety,1/11/25,5/11/26,n
+548,kip,gandy,m,very hot,1/11/25,5/12/26,n
+1157,mark,kennedy,m,brian worm,1/13/25,5/13/26,n
+1245,mary,jane,f,very hot,1/14/25,5/14/26,n
+1070,martha,stewart,f,psychosis,1/15/25,5/15/26,n
+1345,merrick,trevors,m,sick,1/16/25,5/16/26,n
+862,mike,carter,m,delulu,1/17/25,5/17/26,n
+458,matt,rontegen,m,radiation,1/18/25,5/18/26,n
+1191,steve,tyler,m,vocal injury,1/19/25,5/19/26,n
+437,taylor,kelvin,x,deceased,1/20/80,,y
